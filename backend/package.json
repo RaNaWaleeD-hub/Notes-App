@@ -11,7 +11,7 @@
     "server-install": "npm install"
   },
   "keywords": [],
-  "author": "Dev AT",
+  "author": "Rana Waleed",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
